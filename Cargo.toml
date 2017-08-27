@@ -1,0 +1,7 @@
+[package]
+name = "cuda-hlb-plugin"
+version = "0.1.0"
+authors = ["Bartłomiej Kuras <hash.deb@gmail.com>"]
+
+[dependencies]
+cuda-hlb = { path = "/home/hashed/cuda-hlb" }
